@@ -1,0 +1,45 @@
+/*cor da pagina*/
+body{
+    background:sienna;
+}
+/*imagem esquerda*/
+img.esquerda{
+    height:250px;
+    width:250px;
+    float:left;
+    margin-right:1.5cm;
+}
+/*imagem direita*/
+img.direita{
+    height:250px;
+    width:250px;
+    float:right;
+    margin-left:1.5cm;
+}
+/*imagem do centro com flutuaçao*/
+img.centro{
+    height:250px;
+    width:250px;
+    float:bottom;
+    margin-left:150px;
+}
+/*titulo*/
+h1.semflutuaçao{
+    clear:both;
+    text-align:center;
+    border:solid black;
+    color: black;
+    background-color:rgb(14, 78, 6);
+}
+/*texto esq*/
+p.esq{
+    text-align:center;
+}
+/*imagem do centro da pagina 2*/
+img.centrop{
+    clear:both;
+    height:250px;
+    width:250px;
+    float:inherit;
+    margin-left: 456px;
+}

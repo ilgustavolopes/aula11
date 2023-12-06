@@ -1,0 +1,11 @@
+/*teste de bordas personalizadas*/
+.borda{
+    height:50%;
+    width:50%;
+    border:1cm inset sienna;
+    color:white
+}
+/*cor de fundo da pagina*/
+body{
+    background:gray;
+}

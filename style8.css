@@ -1,0 +1,17 @@
+.verticalmenu{
+    width:200px;
+}
+.verticalmenu a{
+    background-color:#eee;
+    color:black;
+    display:block;
+    padding:12px;
+    text-decoration:none;
+}
+.verticalmenu a:hover{
+    background-color: lightgray;
+}
+.verticalmenu a.active{
+    background-color:burlywood;
+    color:black;
+}

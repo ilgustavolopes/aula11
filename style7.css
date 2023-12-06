@@ -1,0 +1,89 @@
+/*cor da pagina*/
+body{
+      background-image:url(imagens/madeira.jfif);
+      background-size:cover;
+      background-repeat:no repeat;
+}
+/*cabeçalho*/
+
+.cabecalho{
+      text-align:center;
+      font-family:Arial;
+      border:5px;
+      padding:50px;
+      background:rgb(86, 60, 22);
+      color:white;
+}
+/*menu*/
+.verticalmenu{
+      width:150px;
+  }
+  .verticalmenu a{
+      background:rgb(86, 60, 22);
+      color:white;
+      display:block;
+      padding:12px;
+      text-decoration:none;
+  }
+  .verticalmenu a:hover{
+      background-color: rgb(226, 146, 61);
+  }
+  .verticalmenu a.active{
+      background:rgb(86, 60, 22);
+      color:white;
+  }
+
+/*Produto maça*/
+img.maca{
+      clear:both;
+      height:250px;
+      width:250px;
+      float:right;
+      margin-right:1.9cm;
+      margin-top:-150px;
+}
+.texto{
+      font-family:Arial;
+      position:relative;
+      margin-left:900px;
+      margin-bottom:50px;
+}
+/*Produto banana*/
+img.banana{
+      clear:both;
+      height:250px;
+      width:250px;
+      float:right;
+      margin-right:400px;
+      margin-top:-320px;
+}
+.texto2{
+      font-family:Arial;
+      position: relative;
+      margin-left:575px;
+      margin-top:-70px;
+}
+/*Produto pera*/
+img.pera{
+      height:250px;
+      width:250px;
+      float:right;
+      margin-right:735px;
+      margin-top:-320px;
+}
+.texto3{
+      font-family:Arial;
+      position: relative;
+      margin-left:245px;
+      margin-top:-30px;
+}
+
+/*rodape*/
+.rodape{
+      clear:both;
+      font-family:Arial;
+      border:5px;
+      padding:25px;
+      background:rgb(86, 60, 22);
+      color:white;
+}

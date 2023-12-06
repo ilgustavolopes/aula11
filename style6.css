@@ -1,0 +1,26 @@
+h1.removed{
+    display:none;
+    border:2px solid red;
+}
+h1.hidden{
+    visibility:hidden;
+    border:2px solid blue;
+}
+/*versao em linha*/
+li{
+    display:inline;
+}
+/*span versao em bloco*/
+span{
+    display:block;
+    border: 5px solid red;
+    margin-top:60px 60px 60px 60px;
+    padding:50px;
+    background:lightslategray
+}
+img{
+    opacity:0.4;
+}
+img:hover{
+    opacity:0.0;
+}

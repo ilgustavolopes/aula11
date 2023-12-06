@@ -1,0 +1,13 @@
+/*Teste*/
+p{
+    padding:60px 40px 5px 30px;
+    border:solid black;
+    color: black;
+    background-color:aquamarine;
+    font-family:Arial;
+    text-align: center;
+}
+/*cor da pagina*/
+body{
+    background:lightgreen;
+}
